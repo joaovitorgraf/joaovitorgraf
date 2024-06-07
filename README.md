@@ -1,5 +1,5 @@
 ## Olá! Eu sou o João Vitor Graf
-<div>
+<div align="center">
   <a href="https://github.com/joaovitorgraf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitorgraf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorgraf&layout=compact&langs_count=16&theme=dracula"/>
